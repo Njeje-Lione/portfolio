@@ -1,20 +1,33 @@
-<<<<<<< HEAD
-# React + Vite
+# 🚀 My Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio! This is a modern, responsive web application built with React and Vite, showcasing my projects, skills, and experience.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- ⚡ **Lightning Fast** - Built with Vite for instant HMR and optimized builds
+- 🎨 **Modern Design** - Clean, responsive UI that works on all devices
+- 📱 **Mobile Friendly** - Fully responsive design for desktop, tablet, and mobile
+- 🔍 **SEO Optimized** - Best practices for search engine visibility
+- 🎭 **Dark/Light Mode** - Beautiful theme switching capabilities
+- ♿ **Accessible** - WCAG compliant for all users
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Frontend:** React 18+
+- **Build Tool:** Vite
+- **Styling:** CSS3 / Tailwind CSS
+- **Linting:** ESLint
+- **Plugin:** Vite React Plugin (Oxc)
 
-## Expanding the ESLint configuration
+## 📦 Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Prerequisites
+- Node.js (v18 or higher)
+- npm or yarn
 
+### Installation
 
->>>>>>> 19970d9d14610bd3ed7cf579948ef2e7b5f76e2c
+1. Clone the repository:
+```bash
+git clone https://github.com/Njeje-Lione/portfolio.git
+cd portfolio
